@@ -1,1 +1,1 @@
-gnore.txt
+myignore.txt
